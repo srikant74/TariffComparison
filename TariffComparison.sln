@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TariffComparison", "TariffComparison\TariffComparison.csproj", "{E968A714-06D1-4317-8236-6A1D03D7AB9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{568EF9C4-0B9C-448F-8A2B-63CBC141783B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{CC241ECF-46C0-4EC5-9F30-E9B59D39316A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E968A714-06D1-4317-8236-6A1D03D7AB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E968A714-06D1-4317-8236-6A1D03D7AB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E968A714-06D1-4317-8236-6A1D03D7AB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E968A714-06D1-4317-8236-6A1D03D7AB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{568EF9C4-0B9C-448F-8A2B-63CBC141783B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568EF9C4-0B9C-448F-8A2B-63CBC141783B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568EF9C4-0B9C-448F-8A2B-63CBC141783B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568EF9C4-0B9C-448F-8A2B-63CBC141783B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC241ECF-46C0-4EC5-9F30-E9B59D39316A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC241ECF-46C0-4EC5-9F30-E9B59D39316A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC241ECF-46C0-4EC5-9F30-E9B59D39316A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC241ECF-46C0-4EC5-9F30-E9B59D39316A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA4FA395-1E45-403A-9DE8-9305FD7DC8F9}
+	EndGlobalSection
+EndGlobal
